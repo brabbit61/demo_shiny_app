@@ -1,0 +1,13 @@
+name: demo_shiny_app
+title: demo_shiny_app
+username:
+account: jenitj61
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8352538
+bundleId: 6862079
+url: https://jenitj61.shinyapps.io/demo_shiny_app/
+when: 1676757765.2998
+lastSyncTime: 1676757765.29981
+asMultiple: FALSE
+asStatic: FALSE
